@@ -8,3 +8,7 @@ Arduino 10/16 pin Eurorack IDC Power Cable Tester
 ![picture](docs/image-shorted.jpg)
 ![picture](docs/image-bad.jpg)
 ![picture](docs/image-ok.jpg)
+
+# Schematics
+
+![schematics](docs/schematics.png)
